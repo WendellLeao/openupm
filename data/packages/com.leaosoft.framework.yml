@@ -1,0 +1,31 @@
+name: com.leaosoft.framework
+displayName: Leaosoft Framework
+description: A Framework with many useful services to make game development easier.
+repoUrl: 'https://github.com/WendellLeao/leaosoft-framework'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - 2d
+  - audio
+  - asset-management
+  - data-management
+  - editor-enhancement
+  - frameworks
+  - input-management
+  - mobile
+  - network
+  - services
+  - testing
+  - utilities
+  - version-control
+hunter: WendellLeao
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1665354216844
